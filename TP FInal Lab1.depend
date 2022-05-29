@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1653783486 source:c:\users\franc\documents\codeblock\tp final lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header-tpfinal.h"
+
+1653783478 c:\users\franc\documents\codeblock\tp final lab1\header-tpfinal.h
+
+1653783827 source:c:\users\franc\documents\codeblock\tp final lab1\struct-tpfinal.c
+	"header-tpfinal.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
