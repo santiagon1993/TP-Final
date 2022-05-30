@@ -23,7 +23,7 @@ main ()
         printf("8)opcion 8\n");
         printf("9)opcion 9\n");
         printf("10)opcion 10\n");
-        printf("Para salir precione ESC caso contrario cualquier tecla \n");
+        printf("Para salir presione ESC caso contrario cualquier tecla \n");
     }
 void seleccion()
 {
