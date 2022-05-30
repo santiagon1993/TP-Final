@@ -1,44 +1,76 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
-<CodeBlocks_project_file>
-	<FileVersion major="1" minor="6" />
-	<Project>
-		<Option title="Telefonica" />
-		<Option pch_mode="2" />
-		<Option compiler="gcc" />
-		<Build>
-			<Target title="Debug">
-				<Option output="bin/Debug/Telefonica" prefix_auto="1" extension_auto="1" />
-				<Option object_output="obj/Debug/" />
-				<Option type="1" />
-				<Option compiler="gcc" />
-				<Compiler>
-					<Add option="-g" />
-				</Compiler>
-			</Target>
-			<Target title="Release">
-				<Option output="bin/Release/Telefonica" prefix_auto="1" extension_auto="1" />
-				<Option object_output="obj/Release/" />
-				<Option type="1" />
-				<Option compiler="gcc" />
-				<Compiler>
-					<Add option="-O2" />
-				</Compiler>
-				<Linker>
-					<Add option="-s" />
-				</Linker>
-			</Target>
-		</Build>
-		<Compiler>
-			<Add option="-Wall" />
-		</Compiler>
-		<Unit filename="main.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Extensions>
-			<code_completion />
-			<envvars />
-			<debugger />
-			<lib_finder disable_auto="1" />
-		</Extensions>
-	</Project>
-</CodeBlocks_project_file>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stdlib.h>
+#include <conio.h>
+#define ESC = 27
+
+void mostrarMenu;
+
+main ()
+{
+    mostrarMenu;
+
+    void mostrarMenu ()
+    {
+        printf("1)opcion 1\n");
+        printf("2)opcion 2\n");
+        printf("3)opcion 3\n");
+        printf("4)opcion 4\n");
+        printf("5)opcion 5\n");
+        printf("6)opcion 6\n");
+        printf("7)opcion 7\n");
+        printf("8)opcion 8\n");
+        printf("9)opcion 9\n");
+        printf("10)opcion 10\n");
+        printf("Para salir precione ESC caso contrario cualquier tecla \n");
+    }
+void seleccion()
+{
+    char opcion;
+    char temp[10];
+    do
+    {
+        fgets(temp,10,stdin);
+        opcion = atoi(temp);
+
+        switch(opcion)
+        {
+        case 1:
+            printf("Usted selecciono %i \n",opcion);
+            break;
+        case 2:
+            printf("Usted selecciono %i \n",opcion);
+            break;
+        case 3:
+            printf("Usted selecciono %i \n",opcion);
+            break;
+        case 4:
+            printf("Usted selecciono %i \n",opcion);
+            break;
+        case 5:
+            printf("Usted selecciono %i \n",opcion);
+            break;
+        case 6:
+            printf("Usted selecciono %i \n",opcion);
+            break;
+        case 7:
+            printf("Usted selecciono %i \n",opcion);
+            break;
+        case 8:
+            printf("Usted selecciono %i \n",opcion);
+            break;
+        case 9:
+            printf("Usted selecciono %i \n",opcion);
+            break;
+        case 10:
+            printf("Usted selecciono %i \n",opcion);
+            break;
+        default:
+            printf("Opcion incorrecta \n");
+            break;
+        }
+
+    }
+    while(opcion != 10);
+}
