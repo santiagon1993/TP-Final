@@ -1,10 +1,13 @@
 //#ifndef HEADER-TPFINAL_H_INCLUDED
+
 #define HEADER-TPFINAL_H_INCLUDED
+
+
 
 
 typedef struct
 {
-    int id; /// campo único y autoincremental
+    int id; /// campo Ãºnico y autoincremental
     int nroCliente;
     char nombre[30];
     char apellido[30];
@@ -12,17 +15,25 @@ typedef struct
     char email[30];
     char domicilio[45];
     char movil[12];
-    int eliminado; /// 0 si está activo - 1 si está eliminado
+    int eliminado; /// 0 si estÃ¡ activo - 1 si estÃ¡ eliminado
 }stCliente;
 
 typedef struct
 {
-    int id; /// campo único y autoincremental int idCliente
+    int id; /// campo Ãºnico y autoincremental int idCliente
     int anio;
     int mes; /// 1 a 12
-    int dia; /// 1 a … dependiendo del mes
-    int datosConsumidos; /// expresados en mb. int baja; /// 0 si está activo - 1 si está eliminado
+    int dia; /// 1 a â€¦ dependiendo del mes
+    int datosConsumidos; /// expresados en mb. int baja; /// 0 si estÃ¡ activo - 1 si estÃ¡ eliminado
 }stConsumos;
 
-stCliente altaCliente(int *id);
+stCliente altaUnCliente();
+//void consultaCliente(stCliente cliente);
+char nomRand (char n[]);
+char apellRand (char a[]);
+void mostrarMenu ();
+void seleccion();
+void muestraArchivoClientes(char nombreArchivo[]);
+void cargaClienteArchivo(char nombreArchivo[]);
+int contarRegistros(char archivo[]);
 //#endif // HEADER-TPFINAL_H_INCLUDED
