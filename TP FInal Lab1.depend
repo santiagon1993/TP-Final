@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1653951038 source:c:\users\franc\documents\codeblock\tp final lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header-tpfinal.h"
+
+1653953987 c:\users\franc\documents\codeblock\tp final lab1\header-tpfinal.h
+
+1653953825 source:c:\users\franc\documents\codeblock\tp final lab1\struct-tpfinal.c
+	"header-tpfinal.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1654043180 source:c:\users\maxia\desktop\codeblock\tp final lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header-tpfinal.h"
+
+1654040706 c:\users\maxia\desktop\codeblock\tp final lab1\header-tpfinal.h
+
+1654045463 source:c:\users\maxia\desktop\codeblock\tp final lab1\struct-tpfinal.c
+	"header-tpfinal.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1654095462 source:c:\users\franc\desktop\tp final lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"header_tpfinal.h"
+
+1654081379 c:\users\franc\desktop\tp final lab1\header-tpfinal.h
+
+1654081373 source:c:\users\franc\desktop\tp final lab1\struct-tpfinal.c
+	"header-tpfinal.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1654095462 source:c:\users\usuario\desktop\tp final lab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"header_tpfinal.h"
+
+1654095397 c:\users\usuario\desktop\tp final lab1\header-tpfinal.h
+
+1654095392 source:c:\users\usuario\desktop\tp final lab1\struct-tpfinal.c
+	"header-tpfinal.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1654185428 c:\users\usuario\desktop\tp final lab1\header_tpfinal.h
+
+1654182597 source:c:\users\usuario\desktop\tp final lab1\struct_tpfinal.c
+	"header_tpfinal.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1654185430 c:\users\franc\desktop\tp final lab1\header_tpfinal.h
+
+1654185450 source:c:\users\franc\desktop\tp final lab1\struct_tpfinal.c
+	"header_tpfinal.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
