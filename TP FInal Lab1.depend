@@ -29,12 +29,13 @@
 	<stdlib.h>
 	<time.h>
 
-1654095462 source:c:\users\franc\desktop\tp final lab1\main.c
+1654289124 source:c:\users\franc\desktop\tp final lab1\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
 	<conio.h>
 	"header_tpfinal.h"
+	"gotoxy.h"
 
 1654081379 c:\users\franc\desktop\tp final lab1\header-tpfinal.h
 
@@ -72,13 +73,21 @@
 	<time.h>
 	<conio.h>
 
-1654185430 c:\users\franc\desktop\tp final lab1\header_tpfinal.h
+1654292894 c:\users\franc\desktop\tp final lab1\header_tpfinal.h
 
-1654185450 source:c:\users\franc\desktop\tp final lab1\struct_tpfinal.c
+1654297673 source:c:\users\franc\desktop\tp final lab1\struct_tpfinal.c
 	"header_tpfinal.h"
 	<string.h>
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	<conio.h>
+	"gotoxy.h"
+
+1491400450 source:c:\users\franc\desktop\tp final lab1\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1491399896 c:\users\franc\desktop\tp final lab1\gotoxy.h
 

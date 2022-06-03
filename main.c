@@ -5,6 +5,8 @@
 #include "header_tpfinal.h"
 #define DIM 1000
 #define clientes "clientes.dat"
+#include "gotoxy.h"
+#define ESC 27
 
 int main()
 {  // char archivoClientes[DIM];

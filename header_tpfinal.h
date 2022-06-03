@@ -17,13 +17,24 @@ typedef struct
 typedef struct
 {
     int id; /// campo único y autoincremental int idCliente
+    int idCliente;
     int anio;
     int mes; /// 1 a 12
     int dia; /// 1 a … dependiendo del mes
     int datosConsumidos; /// expresados en mb. int baja; /// 0 si está activo - 1 si está eliminado
 } stConsumos;
 
-stCliente altaUnCliente();
+
+stCliente buscarporID(char archivo[],int id);
+stCliente modificardomicilio(stCliente cliente);
+stCliente modificarNombre(stCliente cliente);
+stCliente modificarApellido(stCliente cliente);
+stCliente modificarDNI(stCliente cliente);
+stCliente modificarMovil(stCliente cliente);
+stCliente modificarEmail(stCliente cliente);
+stCliente modificarAltaBaja(stCliente cliente);
+void seleccionModificar(int id);
+void modificarCliente(char archivo[],int id,int flag);
 //void consultaCliente(stCliente cliente);
 stCliente altaUnCliente(int id);
 int validacionNroCliente(stCliente b, char archivo[]);
@@ -36,6 +47,6 @@ void muestraArchivoClientes(char nombreArchivo[]);
 void cargaClienteArchivo(char nombreArchivo[]);
 int contarRegistros(char archivo[]);
 void borclien();
-stCliente buscarPorDni(char dni[],char archivo);
+stCliente buscarPorDni(char dni[],char archivo[]);
 
 #endif // HEADER-TPFINAL_H_INCLUDED
