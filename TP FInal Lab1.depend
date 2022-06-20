@@ -29,7 +29,7 @@
 	<stdlib.h>
 	<time.h>
 
-1654289124 source:c:\users\franc\desktop\tp final lab1\main.c
+1654302427 source:c:\users\franc\desktop\tp final lab1\main.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -73,9 +73,9 @@
 	<time.h>
 	<conio.h>
 
-1654292894 c:\users\franc\desktop\tp final lab1\header_tpfinal.h
+1654377598 c:\users\franc\desktop\tp final lab1\header_tpfinal.h
 
-1654297673 source:c:\users\franc\desktop\tp final lab1\struct_tpfinal.c
+1654378891 source:c:\users\franc\desktop\tp final lab1\struct_tpfinal.c
 	"header_tpfinal.h"
 	<string.h>
 	<stdio.h>
@@ -90,4 +90,177 @@
 	<windows.h>
 
 1491399896 c:\users\franc\desktop\tp final lab1\gotoxy.h
+
+1491400450 source:c:\users\daphne\desktop\tp final lab1 frannnnnn\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1654477841 source:c:\users\daphne\desktop\tp final lab1 frannnnnn\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"header_tpfinal.h"
+	"gotoxy.h"
+	"consumos_header.h"
+
+1654478400 c:\users\daphne\desktop\tp final lab1 frannnnnn\header_tpfinal.h
+	"consumos_header.h"
+
+1491399896 c:\users\daphne\desktop\tp final lab1 frannnnnn\gotoxy.h
+
+1654478407 source:c:\users\daphne\desktop\tp final lab1 frannnnnn\struct_tpfinal.c
+	"header_tpfinal.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"consumos_header.h"
+
+1654478398 c:\users\daphne\desktop\tp final lab1 frannnnnn\consumos_header.h
+	"header_tpfinal.h"
+
+1654478697 source:c:\users\daphne\desktop\tp final lab1 frannnnnn\consumos.c
+	"consumos_header.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+
+1654632563 source:c:\users\franc\documents\github\tp-final\tp dafne\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655416183 source:c:\users\franc\documents\github\tp-final\tp dafne\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"header_tpfinal.h"
+	"gotoxy.h"
+
+1655676897 c:\users\franc\documents\github\tp-final\tp dafne\header_tpfinal.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"header_tpfinal.h"
+	"gotoxy.h"
+
+1654632563 c:\users\franc\documents\github\tp-final\tp dafne\consumos_header.h
+	"header_tpfinal.h"
+
+1654632563 c:\users\franc\documents\github\tp-final\tp dafne\gotoxy.h
+
+1655677287 source:c:\users\franc\documents\github\tp-final\tp dafne\struct_tpfinal.c
+	"header_tpfinal.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+
+1655676778 source:c:\users\franc\documents\github\tp-final\tp dafne\consumos.c
+	"header_tpfinal.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+
+1655694114 source:c:\users\franc\documents\github\tp-final\tp final grupo 10\consumos.c
+	"header_tpfinal.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+
+1655690228 c:\users\franc\documents\github\tp-final\tp final grupo 10\header_tpfinal.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"header_tpfinal.h"
+	"gotoxy.h"
+	<time.h>
+
+1654632563 c:\users\franc\documents\github\tp-final\tp final grupo 10\gotoxy.h
+
+1654632563 source:c:\users\franc\documents\github\tp-final\tp final grupo 10\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655692967 source:c:\users\franc\documents\github\tp-final\tp final grupo 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"header_tpfinal.h"
+	"gotoxy.h"
+
+1655694361 source:c:\users\franc\documents\github\tp-final\tp final grupo 10\struct_tpfinal.c
+	"header_tpfinal.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+
+1655740832 source:c:\users\santi\desktop\tp-final-main (2)\tp-final-main\tp final grupo 10\consumos.c
+	"header_tpfinal.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
+
+1655740837 c:\users\santi\desktop\tp-final-main (2)\tp-final-main\tp final grupo 10\header_tpfinal.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"header_tpfinal.h"
+	"gotoxy.h"
+	<time.h>
+
+1655732275 c:\users\santi\desktop\tp-final-main (2)\tp-final-main\tp final grupo 10\gotoxy.h
+
+1655732275 source:c:\users\santi\desktop\tp-final-main (2)\tp-final-main\tp final grupo 10\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1655740837 source:c:\users\santi\desktop\tp-final-main (2)\tp-final-main\tp final grupo 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"header_tpfinal.h"
+	"gotoxy.h"
+
+1655740837 source:c:\users\santi\desktop\tp-final-main (2)\tp-final-main\tp final grupo 10\struct_tpfinal.c
+	"header_tpfinal.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"gotoxy.h"
+	<windows.h>
 
